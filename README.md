@@ -1,5 +1,6 @@
 # 终末地物资交易助手
 
+教学文件：https://github.com/Hxic-zzh/Endfield-Flipping-Assistant-Chinese-/blob/main/%E6%95%99%E5%AD%A6%E6%96%87%E4%BB%B6.pptx
 **⚠️ 重要警告：这个代码非常难绷！**
 
 这是一个专门为《终末地》游戏开发的物资交易辅助工具，主要用于管理好友商店商品价格和利润计算。
